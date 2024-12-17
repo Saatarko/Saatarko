@@ -19,7 +19,7 @@
     - [Дипломный проект (в команде): Cоциальная сеть с профилями, новостями, группами и групповым чатом на Websocket.](https://github.com/Saatarko/diplom)
     - Дипломный проект (соло): IT школа. [Бэкэнд на FastAPI](https://github.com/Saatarko/-ourses-Fast_api-)+  [“фронтэнд” API c курсами, записями на курсы, зачислением в группы и чатом на Websocket](https://github.com/Saatarko/kivy_app) 
     - [Небольшая сетевая игра на 2-х человек - “перестрелка”](https://github.com/Saatarko/Pygame)
-    - Сайт для аудиторской организации
+    - [Сайт для аудиторской организации](https://auditplus.by/) 
     - [Приложение для проведения тестов для аудиторской организации](https://github.com/Saatarko/Auduit_test)
    
 
