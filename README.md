@@ -10,9 +10,9 @@
    проекты на Kaggle
   статьи geeksforgeeks.org
 - 💞️ Контакты:
-    -- Email: saatarko@tut.by
-    -- Telegram: @Saatarko
-    -- LinkedIn: www.linkedin.com/in/saatarko
+    - Email: saatarko@tut.by
+    - Telegram: @Saatarko
+    - LinkedIn: www.linkedin.com/in/saatarko
 - ✨ Мое резюме:
     [CV_Хворощ_Александр.pdf](https://github.com/user-attachments/files/17917027/CV_._.pdf)
 - ✨ Мои основные проекты:
