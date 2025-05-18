@@ -15,6 +15,7 @@
 - ✨ Мое резюме:
     [CV_Хворощ_Александр.pdf](https://github.com/user-attachments/files/17917027/CV_._.pdf)
 - ✨ Мои основные проекты:
+    - [Рекомендательные системы на основе датасета фильмов](https://github.com/Saatarko/movies_rec_system)
     - [Дипломный проект (в команде): Cоциальная сеть с профилями, новостями, группами и групповым чатом на Websocket.](https://github.com/Saatarko/diplom)
     - Дипломный проект (соло): IT школа. [Бэкэнд на FastAPI](https://github.com/Saatarko/-ourses-Fast_api-)+  [“фронтэнд” API c курсами, записями на курсы, зачислением в группы и чатом на Websocket](https://github.com/Saatarko/kivy_app) 
     - [Небольшая сетевая игра на 2-х человек - “перестрелка”](https://github.com/Saatarko/Pygame)
