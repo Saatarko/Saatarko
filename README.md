@@ -5,7 +5,7 @@
 - 🌱 Сейчас прохожу курсы по специальности Data Science
 - ✨ Самостоятельные курсы/обучение:
      [Stepik-ML](https://github.com/Saatarko/Saatarko/blob/1f09830c4497c308280a8671a0e4d28c6de3b2e0/certificates/stepik-ML.pdf)
-     https://www.codewars.com/users/Saatarko/badges/large
+     [![Codewars](https://www.codewars.com/users/Saatarko/badges/large)](https://www.codewars.com/users/Saatarko)
 - 👀 Прохожу Youtube лекции по:
      ML / DS
      Изучаю:
