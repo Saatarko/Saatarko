@@ -27,7 +27,7 @@
 
 ## 💼 Мое резюме
 
-[✨ CV_Хворощ_Александр.pdf](https://github.com/user-attachments/files/17917027/CV_._.pdf)
+[✨ CV_Хворощ_Александр.pdf]((https://github.com/Saatarko/certificates/Резюме_Хворощ.pdf)
 
 ---
 
