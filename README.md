@@ -18,6 +18,7 @@
 Прохожу курсы/ лекции на:  
 -  Stepik
 -  Coursera
+  
 Изучаю:
 - RL/CV/NLP
 - проекты на Kaggle
