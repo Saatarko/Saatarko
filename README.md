@@ -10,10 +10,12 @@
 ## 🌱 Сейчас обучаюсь
 
 - Курсы по **Data Science**
-- Самостоятельное обучение:
-  - [![Coursera — CNN](https://img.shields.io/badge/📄_Скачать-CV-blue?style=for-the-badge)](https://github.com/Saatarko/Saatarko/blob/main/certificates/Coursera%20Convolutional%20Neural%20Networks.pdf)
-  - [![Stepik — ML](https://img.shields.io/badge/📄_Скачать-CV-blue?style=for-the-badge)]((https://github.com/Saatarko/Saatarko/blob/main/certificates/stepik-ML.pdf)
+  
+## 📜 Сертификаты
 
+[![Coursera CNN](https://img.shields.io/badge/📜_Coursera-CNN-orange?style=for-the-badge)](https://github.com/Saatarko/certificates/raw/main/Coursera%20Convolutional%20Neural%20Networks.pdf)  
+[![Stepik ML](https://img.shields.io/badge/📜_Stepik-ML-green?style=for-the-badge)](https://github.com/Saatarko/certificates/raw/main/stepik-ML.pdf)  
+[![Python Developer](https://img.shields.io/badge/📜_Course-Python%20Developer-blueviolet?style=for-the-badge)](https://github.com/Saatarko/certificates/raw/main/Aliaksandr%20Hvorashch.pdf)
 
   - [Coursera — CNN](https://github.com/Saatarko/Saatarko/blob/main/certificates/Coursera%20Convolutional%20Neural%20Networks.pdf)
   - [Stepik — ML](https://github.com/Saatarko/Saatarko/blob/main/certificates/stepik-ML.pdf)
@@ -27,13 +29,11 @@
 - RL/CV/NLP
 - проекты на Kaggle
 - статьи geeksforgeeks.org
-
 ---
 
 ## 💼 Мое резюме
 
 [![CV](https://img.shields.io/badge/📄_Скачать-CV-blue?style=for-the-badge)](https://github.com/Saatarko/Saatarko/blob/main/certificates/CV_Hvorshch.pdf)
-
 
 ---
 
@@ -56,9 +56,13 @@
 ### 🔧 Backend / Fullstack / Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-556B2F?style=for-the-badge&logo=python&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-009933?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🤖 Data Science / ML / AI
@@ -77,6 +81,14 @@
 ![Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=for-the-badge&logo=openai&logoColor=white)
 ![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Reinforcement%20Learning](https://img.shields.io/badge/Reinforcement%20Learning-006400?style=for-the-badge&logo=python&logoColor=white)
+
+### ☁️ DevOps / Дополнительно
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 ---
 
 ## 📬 Контакты
