@@ -10,7 +10,11 @@
 ## 🌱 Сейчас обучаюсь
 
 - Курсы по **Data Science**
-- Самостоятельное обучение:   
+- Самостоятельное обучение:
+  - [![Coursera — CNN](https://img.shields.io/badge/📄_Скачать-CV-blue?style=for-the-badge)](https://github.com/Saatarko/Saatarko/blob/main/certificates/Coursera%20Convolutional%20Neural%20Networks.pdf)
+  - [![Stepik — ML](https://img.shields.io/badge/📄_Скачать-CV-blue?style=for-the-badge)]((https://github.com/Saatarko/Saatarko/blob/main/certificates/stepik-ML.pdf)
+
+
   - [Coursera — CNN](https://github.com/Saatarko/Saatarko/blob/main/certificates/Coursera%20Convolutional%20Neural%20Networks.pdf)
   - [Stepik — ML](https://github.com/Saatarko/Saatarko/blob/main/certificates/stepik-ML.pdf)
   - [![Codewars](https://www.codewars.com/users/Saatarko/badges/large)](https://www.codewars.com/users/Saatarko)
