@@ -27,7 +27,10 @@
 
 ## 💼 Мое резюме
 
-[✨ CV_Хворощ_Александр.pdf](https://github.com/Saatarko/Saatarko/blob/main/certificates/Резюме_Хворощ.pdf)
+## 💼 Мое резюме
+
+[![CV](https://img.shields.io/badge/📄_Скачать-CV-blue?style=for-the-badge)](https://github.com/Saatarko/certificates/raw/main/CV_Hvorshch.pdf)
+
 
 ---
 
@@ -63,7 +66,14 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8BC0?style=for-the-badge&logo=python&logoColor=white)
-
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-154F9C?style=for-the-badge&logo=python&logoColor=white)
+![Gym](https://img.shields.io/badge/OpenAI%20Gym-0081A5?style=for-the-badge&logo=openai&logoColor=white)
+![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Reinforcement%20Learning](https://img.shields.io/badge/Reinforcement%20Learning-006400?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## 📬 Контакты
