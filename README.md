@@ -15,10 +15,13 @@
   - [Stepik — ML](https://github.com/Saatarko/Saatarko/blob/main/certificates/stepik-ML.pdf)
   - [![Codewars](https://www.codewars.com/users/Saatarko/badges/large)](https://www.codewars.com/users/Saatarko)
 
-- Лекции и материалы:
-  - YouTube: ML/DS
-  - Kaggle-проекты
-  - [GeeksForGeeks.org](https://www.geeksforgeeks.org)
+- Прохожу курсы/ лекции на:  
+      -  Stepik
+      -  Coursera
+- Изучаю:
+       - RL/CV/NLP
+       - проекты на Kaggle
+       - статьи geeksforgeeks.org
 
 ---
 
@@ -30,6 +33,7 @@
 
 ## 💡 Основные проекты
 
+- 🎓 [Дипломная работа RL Multi-Agent Maze Prototype](https://github.com/Saatarko/diplom_ds)
 - 🎬 [Рекомендательная система (фильмы)](https://github.com/Saatarko/movies_rec_system)
 - 💬 [Командный диплом: Социальная сеть](https://github.com/Saatarko/diplom)
 - 🎓 Соло диплом: IT-школа
