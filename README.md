@@ -13,7 +13,7 @@
   
 ## 📜 Сертификаты
 
-[![Coursera CNN](https://img.shields.io/badge/📜_Coursera-CNN-orange?style=for-the-badge)]((https://github.com/Saatarko/Saatarko/blob/main/certificates/Coursera%20Convolutional%20Neural%20Networks.pdf)  
+[![Coursera CNN](https://img.shields.io/badge/📜_Coursera-CNN-orange?style=for-the-badge)](https://github.com/Saatarko/Saatarko/blob/main/certificates/Coursera%20Convolutional%20Neural%20Networks.pdf)  
 [![Stepik ML](https://img.shields.io/badge/📜_Stepik-ML-green?style=for-the-badge)](https://github.com/Saatarko/Saatarko/blob/main/certificates/stepik-ML.pdf)  
 [![Python Developer](https://img.shields.io/badge/📜_Course-Python%20Developer-blueviolet?style=for-the-badge)](https://github.com/Saatarko/certificates/raw/main/Aliaksandr%20Hvorashch.pdf)
 
