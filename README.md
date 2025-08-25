@@ -19,9 +19,9 @@
       -  Stepik
       -  Coursera
 - Изучаю:
-       - RL/CV/NLP
-       - проекты на Kaggle
-       - статьи geeksforgeeks.org
+      - RL/CV/NLP
+      - проекты на Kaggle
+      - статьи geeksforgeeks.org
 
 ---
 
