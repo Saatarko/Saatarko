@@ -15,13 +15,13 @@
   - [Stepik — ML](https://github.com/Saatarko/Saatarko/blob/main/certificates/stepik-ML.pdf)
   - [![Codewars](https://www.codewars.com/users/Saatarko/badges/large)](https://www.codewars.com/users/Saatarko)
 
-- Прохожу курсы/ лекции на:  
-      -  Stepik
-      -  Coursera
-- Изучаю:
-      - RL/CV/NLP
-      - проекты на Kaggle
-      - статьи geeksforgeeks.org
+Прохожу курсы/ лекции на:  
+-  Stepik
+-  Coursera
+Изучаю:
+- RL/CV/NLP
+- проекты на Kaggle
+- статьи geeksforgeeks.org
 
 ---
 
