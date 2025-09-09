@@ -30,7 +30,7 @@
 
 ## 💼 Мое резюме
 
-[![CV](https://img.shields.io/badge/📄_Скачать-CV-blue?style=for-the-badge)](https://github.com/Saatarko/Saatarko/blob/main/certificates/CV_Hvorshch.pdf)
+[![CV](https://img.shields.io/badge/📄_Скачать-CV-blue?style=for-the-badge)](https://github.com/Saatarko/Saatarko/blob/main/certificates/CV_eng.pdf)
 
 ---
 
