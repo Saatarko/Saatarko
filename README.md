@@ -3,7 +3,6 @@
 Решил изменить профиль деятельности в связи с изменениями на основном месте работы.
 
 С детства в свободное время увлекался программированием, посещал курсы, создавал мини-игры (QSP).  
-[📄 Прошел курсы на Python Developer](https://github.com/Saatarko/Saatarko/blob/main/certificates/Aliaksandr%20Hvorashch.pdf)
 
 ---
 
