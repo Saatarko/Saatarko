@@ -140,18 +140,18 @@ I study:
 
 - PyCharm
 - Cursor (AI-assisted development)
-- Git / GitHub
-- Linux
 
 ### 🤖 AI-Assisted Development
 
-- Cursor with multiple LLMs:
-  - ChatGPT
+- ### AI-Assisted Development
+
+- AI-powered IDE: Cursor
+- LLMs:
+  - OpenAI (ChatGPT)
   - Google Gemini
-  - Claude Sonnet / Opus
-  - Grok
-  - Cursor Composer
-- AI-assisted coding, debugging, refactoring and technical problem-solving
+  - Anthropic Claude (Sonnet / Opus)
+  - xAI Grok
+  - Cursor Composer 2.5
 
 ---
 
