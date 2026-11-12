@@ -136,6 +136,23 @@ I study:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+### 🔧 Development Environment / IDE
+
+- PyCharm
+- Cursor (AI-assisted development)
+- Git / GitHub
+- Linux
+
+### 🤖 AI-Assisted Development
+
+- Cursor with multiple LLMs:
+  - ChatGPT
+  - Google Gemini
+  - Claude Sonnet / Opus
+  - Grok
+  - Cursor Composer
+- AI-assisted coding, debugging, refactoring and technical problem-solving
+
 ---
 
 ## 📬 Контакты/Contacts
