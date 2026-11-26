@@ -157,7 +157,7 @@ I study:
 
 ## 📬 Контакты/Contacts
 
-- 📧 Email: saatarko@tut.by  
+- 📧 Email: saatarko@gmail.com 
 - 💬 Telegram: [@Saatarko](https://t.me/Saatarko)  
 - 🔗 LinkedIn: [linkedin.com/in/saatarko](https://www.linkedin.com/in/saatarko)
 
